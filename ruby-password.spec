@@ -1,6 +1,5 @@
 # $Id: ruby-password.spec,v 1.21 2006/03/02 19:53:18 ianmacd Exp $
 #
-
 Summary: A password handling library for Ruby with interface to CrackLib
 Name: ruby-password
 Version: 0.5.3

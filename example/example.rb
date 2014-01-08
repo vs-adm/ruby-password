@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -w
+#!/usr/bin/env ruby -w
 #
 # $Id: example.rb,v 1.7 2004/04/07 09:49:06 ianmacd Exp $
 #
@@ -18,6 +18,7 @@
 #   along with this program; if not, write to the Free Software Foundation,
 #   Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 
+require 'rubygems'
 require 'password'
 
 def handle_password( pw )
